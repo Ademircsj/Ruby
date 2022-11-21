@@ -1,3 +1,5 @@
+#Implement a caesar cipher that takes in a string and the shift #factor and then outputs the modified string:
+
 def ler_string ()
     puts "Informe uma string: "
     frase = gets().to_s.chomp #Garantir que o primeiro dado seja uma string
