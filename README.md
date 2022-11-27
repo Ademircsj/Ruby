@@ -1,2 +1,2 @@
 # Ruby
-Olá, aqui você encontrará todos os códigos dos meus exercícios realizados na linguagem Ruby =)
+Olá, aqui você encontrará todos os códigos dos exercícios que realizei utilizando a linguagem Ruby =)
